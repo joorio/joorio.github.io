@@ -1,7 +1,8 @@
 body {
-	background-color: #e1c0c0;
+	background-color: #E1C0C0;
 }
 
 h1, p {
-	color: #353636;
+	font-family: "Georgia";
+	color: #808080;
 }
