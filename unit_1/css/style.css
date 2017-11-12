@@ -2,7 +2,13 @@ body {
 	background-color: #FFDAB9;
 }
 
-h1, p {
-	font-family: "Georgia";
+h1 {
+	font-family: "Lato";
 	color: #808080;
+	text-align: center;
+}
+
+p  {
+	font-family: "Georgia"
+	text-align: center;
 }
