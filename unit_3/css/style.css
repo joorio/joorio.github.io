@@ -1,12 +1,28 @@
 body {
 	background-color: #FFFFFF;
+	background: url("images/mainphoto.jpeg");
+	background-size: cover;
 }
 
-.intro {
-	margin-top: 20px
+.logo {
+	margin-top: 20px;
 	margin-left: 20px;
 
 }
+
+.links {
+	text-align: right;
+	margin-right: 50px;
+
+}
+
+a:link {
+    color: #808080;
+    text-decoration: underline;
+    font-family: "Arial";
+    margin-right: 10px
+}
+
 
 h1, p {
 	font-family: "Arial";
